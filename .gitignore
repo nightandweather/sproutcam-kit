@@ -1,0 +1,6 @@
+.venv/
+build/
+tmp/
+__pycache__/
+firmware/.pio/
+firmware/include/secrets.h
