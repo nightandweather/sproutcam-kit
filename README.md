@@ -1,6 +1,6 @@
 # SproutCam Build Kit
 
-카메라와 환경 센서로 고가 식물의 발근·순화·성장을 기록하는 오픈 하드웨어 스마트 재배 캐비닛입니다.
+카메라와 환경 센서로 고가 식물의 발근·순화·성장을 기록하는 스마트 재배 캐비닛 설계 프로젝트입니다.
 
 ![HOME 12 and PRO 48 concept](output/concepts/home-vs-pro-clean-v1.png)
 
