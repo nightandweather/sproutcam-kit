@@ -19,6 +19,7 @@
 - [HOME 12 BOM](docs/HOME12_BOM.csv)
 - [PRO 48 BOM](docs/PRO48_BOM.csv)
 - [프로파일·패널 절단표](docs/HOME_PRO_CUTLIST.csv)
+- [이 사업을 계속할지 판단하는 현실 점검](docs/BUSINESS_REALITY_CHECK.md)
 - [HOME/PRO 고정구 CAD 생성기](cad/generate_home_pro.py)
 - [HOME/PRO STL](output/stl/home-pro/)
 - [HOME/PRO STEP](output/step/home-pro/)
@@ -91,3 +92,7 @@ python tools/build_home_pro_manual.py
 ## 안전 및 판매 전 검토
 
 이 저장소는 개발 시제품용입니다. 실제 판매 전에는 전파·전기·재료·내구·표시 의무에 대해 시험기관과 별도 검토가 필요합니다. 누전차단기가 있는 콘센트를 사용하고, 젖은 구역과 전자함을 분리하며, PRO 48에는 전도 방지 고정을 반드시 적용하십시오.
+
+## 사업성에 관한 입장
+
+이 설계가 기술적으로 가능하다는 사실과 시장에서 팔린다는 사실은 다릅니다. 일반 가정의 채소 자급용 제품으로는 경제성이 약하다는 반론을 포함해, 가능한 고객과 중단 기준을 [사업성 현실 점검](docs/BUSINESS_REALITY_CHECK.md)에 기록했습니다.
