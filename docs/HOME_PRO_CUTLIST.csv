@@ -1,0 +1,20 @@
+model,material,cut_size_mm,qty,use,notes
+HOME12,2020 aluminium extrusion,560,4,top/bottom width rails,Square cut
+HOME12,2020 aluminium extrusion,400,4,top/bottom depth rails,Square cut
+HOME12,2020 aluminium extrusion,600,4,vertical posts,Square cut
+HOME12,2020 aluminium extrusion,520,4,LED and tray width rails,Square cut
+HOME12,2020 aluminium extrusion,360,2,service shelf depth rails,Square cut
+HOME12,3T clear polycarbonate,560x400,1,top panel,Deburr edges
+HOME12,3T clear polycarbonate,400x600,2,side panels,Rear cable relief on right
+HOME12,3T clear polycarbonate,560x600,1,rear panel,Four fan cutouts
+HOME12,3T clear polycarbonate,520x450,1,front door,Leave 3 mm perimeter gap
+HOME12,3T ABS or ACP,520x360,1,service shelf,Wet/dry separator
+PRO48,3030 aluminium extrusion,1700,4,vertical posts,Square cut
+PRO48,3030 aluminium extrusion,680,8,top/bottom and zone width rails,Square cut
+PRO48,3030 aluminium extrusion,560,12,top/bottom and zone depth rails,Square cut
+PRO48,4T clear polycarbonate,680x560,1,top panel,Deburr edges
+PRO48,4T clear polycarbonate,560x1700,2,side panels,Rear cable relief on right
+PRO48,4T clear polycarbonate,680x1700,1,rear panel,Eight fan cutouts
+PRO48,4T clear polycarbonate,640x600,2,zone doors,Leave 4 mm perimeter gap
+PRO48,4T clear polycarbonate,640x250,1,service door,Opaque option acceptable
+PRO48,4T ABS or ACP,620x500,3,zone floors and wet/dry separator,Seal perimeter
